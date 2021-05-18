@@ -1,9 +1,10 @@
+
 ### Hi, have a good day!
 
 ###### I am Gabriel, and i'm twenty year old lol
 
 ```ts
-interface Beginer extends OneYear {}
+interface Beginer extends OneYear {};
 
 new Me({
   name: 'Gabriel Lima',
@@ -15,10 +16,11 @@ new Me({
           new Firebase({...this.knowledge}), 
           new English({...this.knowledge}) ],
   job: 'Administrative Assistant',
-})
+  cowork: [ CationHQ ],
+});
 ```
 
-![Homem Letra](http://infeduc.pbworks.com/f/Gif%20homem%20letrado.gif)
+![Aw](https://user-images.githubusercontent.com/58678638/118585167-b96ac580-b76e-11eb-9593-b7a787484731.gif)
 
 <!--
 **Gabriel-Almeida-Ajax/Gabriel-Almeida-Ajax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
