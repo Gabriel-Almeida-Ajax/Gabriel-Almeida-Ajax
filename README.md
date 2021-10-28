@@ -4,19 +4,28 @@
 ###### I am Gabriel, and i'm twenty year old lol
 
 ```ts
-interface Beginer extends OneYear {};
+interface Pleno extends ThreeYear {};
 
 new Me({
   name: 'Gabriel Lima',
   country: 'Brazil',
   old: 20,
-  study: [new NodeJs({...this.knowledge}), 
+  knowledge: [
+          new SeniorRubi({...this.knowledge, this.seniorERP}), 
+          new NodeJs({...this.knowledge}), 
           new TypeScript({...this.knowledge}), 
+          new JavaScript({...this.knowledge}), 
+          new Express({...this.knowledge}), 
+          new JWTBcrypt({...this.knowledge}), 
           new ReactJS({...this.knowledge}), 
+          new ReactNative({...this.knowledge}), 
           new Firebase({...this.knowledge}), 
-          new English({...this.knowledge}) ],
-  job: 'Administrative Assistant',
+          new Postgres({...this.knowledge}), 
+          new English({...this.knowledge}) 
+          ],
+  jobs: [ 'Analista de Sistemas I', 'CTO', 'Desenvolvedor de plugins (Mapas)' ],
   cowork: [ CationHQ ],
+  cto: [ Monkeys Ltda ],
 });
 ```
 
