@@ -25,7 +25,6 @@ new Me({
           ],
   jobs: [ 'Analista de Sistemas I', 'CTO', 'Desenvolvedor de plugins (Mapas)' ],
   cowork: [ CationHQ ],
-  cto: [ Monkeys Ltda ],
 });
 ```
 
