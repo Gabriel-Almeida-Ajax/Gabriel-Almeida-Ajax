@@ -4,7 +4,7 @@
 ###### I am Gabriel, and i'm twenty year old lol
 
 ```ts
-interface Pleno extends ThreeYear {};
+class Pleno extends ThreeYear {} ;
 
 new Me({
   name: 'Gabriel Lima',
