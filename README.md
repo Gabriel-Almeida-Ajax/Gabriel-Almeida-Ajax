@@ -23,7 +23,7 @@ new Me({
           new Postgres({...this.knowledge}), 
           new English({...this.knowledge}) 
           ],
-  jobs: [ 'Analista de Sistemas I', 'CTO', 'Desenvolvedor de plugins (Mapas)' ],
+  jobs: [ 'Analista de Sistemas', 'Desenvolvedor Full Stack (React / Node / GeoServer)' ],
   cowork: [ CationHQ ],
 });
 ```
