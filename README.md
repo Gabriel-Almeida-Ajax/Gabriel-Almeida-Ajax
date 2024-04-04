@@ -23,13 +23,13 @@ class Pleno<T> extends FiveYears {
   public Postgres(): knowledge;
 };
 
-Pleno<Me> me = new Me({
+Pleno<Me> me = new Me(
   name: "Gabriel Lima",
   country: "Brazil",
   old: 23,
   jobs: [ 'Analista de Sistemas', 'Desenvolvedor Full Stack (React / Node / GeoServer)' ],
   cowork: [ CationHQ, GE21 ],
-});
+);
 ```
 
 ![Aw](https://user-images.githubusercontent.com/58678638/118585167-b96ac580-b76e-11eb-9593-b7a787484731.gif)
