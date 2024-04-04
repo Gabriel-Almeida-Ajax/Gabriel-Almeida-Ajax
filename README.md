@@ -1,30 +1,34 @@
 
 ### Hi, have a good day!
 
-###### I am Gabriel, and i'm twenty year old lol
+###### I am Gabriel, and i'm twenty two year old lol
 
-```ts
-class Pleno extends ThreeYear {} ;
+```java
+class Pleno<T> extends FiveYears {
+  public GeoServer(): knowledge;
+  public GeoNetworl(): knowledge;
+  public OGC(): knowledge;
+  public Java(): knowledge;
+  public SpringBoot(): knowledge;
+  public JSF(): knowledge;
+  public TypeScript(): knowledge;
+  public ReactJS(): knowledge;
+  public ReactNative(): knowledge;
+  public SeniorRubi(): knowledge;
+  public JavaScript(): knowledge;
+  public NodeJs(): knowledge;
+  public Express(): knowledge;
+  public JWTBcrypt(): knowledge;
+  public Firebase(): knowledge;
+  public Postgres(): knowledge;
+};
 
-new Me({
-  name: 'Gabriel Lima',
-  country: 'Brazil',
-  old: 20,
-  knowledge: [
-          new SeniorRubi({...this.knowledge, this.seniorERP}), 
-          new NodeJs({...this.knowledge}), 
-          new TypeScript({...this.knowledge}), 
-          new JavaScript({...this.knowledge}), 
-          new Express({...this.knowledge}), 
-          new JWTBcrypt({...this.knowledge}), 
-          new ReactJS({...this.knowledge}), 
-          new ReactNative({...this.knowledge}), 
-          new Firebase({...this.knowledge}), 
-          new Postgres({...this.knowledge}), 
-          new English({...this.knowledge}) 
-          ],
+Pleno<Me> me = new Me({
+  name: "Gabriel Lima",
+  country: "Brazil",
+  old: 23,
   jobs: [ 'Analista de Sistemas', 'Desenvolvedor Full Stack (React / Node / GeoServer)' ],
-  cowork: [ CationHQ ],
+  cowork: [ CationHQ, GE21 ],
 });
 ```
 
