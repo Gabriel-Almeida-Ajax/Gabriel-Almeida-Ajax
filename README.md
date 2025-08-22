@@ -1,10 +1,10 @@
 
 ### Hi, have a good day!
 
-###### I am Gabriel, and i'm twenty two year old lol
+###### I am Gabriel, and i'm twenty four year old lol
 
 ```java
-class Pleno<T> extends FiveYears {
+class Me implements Developer {
   public GeoServer(): knowledge;
   public GeoNetworl(): knowledge;
   public OGC(): knowledge;
@@ -23,12 +23,12 @@ class Pleno<T> extends FiveYears {
   public Postgres(): knowledge;
 };
 
-Pleno<Me> me = new Me(
+Me me = new Me(
   name: "Gabriel Lima",
   country: "Brazil",
-  old: 23,
-  jobs: [ 'Analista de Sistemas', 'Desenvolvedor Full Stack (React / Node / GeoServer)' ],
-  cowork: [ CationHQ, GE21 ],
+  old: 24,
+  jobs: [ 'Especialista WebGIS', 'Desenvolvedor Full Stack (React / Java / GeoNetwork)' ],
+  cowork: [ CationHQ, GE21, FITec ],
 );
 ```
 
