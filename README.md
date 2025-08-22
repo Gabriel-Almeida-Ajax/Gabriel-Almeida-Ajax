@@ -6,7 +6,7 @@
 ```java
 class Me implements Developer {
   public GeoServer(): knowledge;
-  public GeoNetworl(): knowledge;
+  public GeoNetwork(): knowledge;
   public OGC(): knowledge;
   public Java(): knowledge;
   public SpringBoot(): knowledge;
@@ -14,13 +14,10 @@ class Me implements Developer {
   public TypeScript(): knowledge;
   public ReactJS(): knowledge;
   public ReactNative(): knowledge;
-  public SeniorRubi(): knowledge;
   public JavaScript(): knowledge;
   public NodeJs(): knowledge;
-  public Express(): knowledge;
-  public JWTBcrypt(): knowledge;
   public Firebase(): knowledge;
-  public Postgres(): knowledge;
+  public Postgis(): knowledge;
 };
 
 Me me = new Me(
